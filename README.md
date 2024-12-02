@@ -21,7 +21,7 @@
     
  
 ### 🛠 &nbsp;Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" alt="azure" width="40" height="40"/> </a> 
