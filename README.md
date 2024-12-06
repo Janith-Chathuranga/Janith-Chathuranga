@@ -2,6 +2,7 @@
 <h3 align="center">A passionate ICT Student | Always eager to learn and innovate</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Janith-Chathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="JanithChathuranga" /> </p>
 
 </br>
 
